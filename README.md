@@ -1,1 +1,1 @@
-I am using this respiratory to share my journey in machine learning
+I am using this repository to share my journey in machine learning
